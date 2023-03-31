@@ -20,3 +20,4 @@ You Can help this project buy adding different features of HTML
 
 ##CopyRight
 notice for Compyright to ReadMe
+All rights reserved
