@@ -15,6 +15,8 @@ This project is deployed using a git This project is deployed using a git This p
 
 ## How To Contribute
 You Can help this project buy adding different features of HTML
+You Can help this project buy adding different features of HTML
+You Can help this project buy adding different features of HTML
 
 ##CopyRight
 notice for Compyright to ReadMe
