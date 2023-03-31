@@ -13,3 +13,4 @@ Sample website with plenty of files for demos and the guide which help any to cr
 This project is deployed using a git
 
 ## How To Contribute
+You Can help this project buy adding different features of HTML
